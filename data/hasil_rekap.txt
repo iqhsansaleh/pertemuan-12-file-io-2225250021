@@ -1,0 +1,6 @@
+REKAP NILAI
+Jumlah data valid: 5
+Rata-rata: 83.40
+Nilai minimum: 74
+Nilai maksimum: 92
+Jumlah lulus (nilai >= 60): 5
